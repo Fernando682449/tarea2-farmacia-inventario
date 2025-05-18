@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formalerta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formalerta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formprincipal.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formprincipal.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formprincipal.cs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formprincipal.cs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\formprincipal.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:formprincipal.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\repositorioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:repositorioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|d:\\ingenieria de software ii\\farmaciainventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D0968D-E321-4F6A-8FFA-71778ED93A5C}|FarmaciaInventario.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d4d7b63-2712-49a6-a309-3ff689de5696}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:37:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProducto.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormProducto.cs",
+              "RelativeDocumentMoniker": "FormProducto.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormProducto.cs",
+              "RelativeToolTip": "FormProducto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:12:59.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormProducto.Designer.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormProducto.Designer.cs",
+              "RelativeDocumentMoniker": "FormProducto.Designer.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormProducto.Designer.cs",
+              "RelativeToolTip": "FormProducto.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwF0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:15:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:14:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:37:25.229Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:38:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPrincipal.cs.Designer.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormPrincipal.cs.Designer.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs.Designer.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormPrincipal.cs.Designer.cs",
+              "RelativeToolTip": "FormPrincipal.cs.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:15:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAlerta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormAlerta.cs",
+              "RelativeDocumentMoniker": "FormAlerta.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormAlerta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAlerta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:13:42.477Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conexion.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Conexion.cs",
+              "RelativeToolTip": "Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:07:40.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAlerta.Designer.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormAlerta.Designer.cs",
+              "RelativeDocumentMoniker": "FormAlerta.Designer.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormAlerta.Designer.cs",
+              "RelativeToolTip": "FormAlerta.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:16:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:06:03.868Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormPrincipal.cs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormPrincipal.cs.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormPrincipal.cs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal.cs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:12:09.527Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAlerta.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormAlerta.cs",
+              "RelativeDocumentMoniker": "FormAlerta.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormAlerta.cs",
+              "RelativeToolTip": "FormAlerta.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:13:49.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormProducto.cs",
+              "RelativeDocumentMoniker": "FormProducto.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:12:52.788Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPrincipal.cs.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormPrincipal.cs.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\FormPrincipal.cs.cs",
+              "RelativeToolTip": "FormPrincipal.cs.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:12:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:10:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositorioProducto.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\RepositorioProducto.cs",
+              "RelativeDocumentMoniker": "RepositorioProducto.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\RepositorioProducto.cs",
+              "RelativeToolTip": "RepositorioProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:09:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "D:\\INGENIERIA DE SOFTWARE II\\FarmaciaInventario\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:09:17.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

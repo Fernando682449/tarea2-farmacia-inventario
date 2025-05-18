@@ -1,0 +1,190 @@
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\obj\Debug\FarmaciaInventario.csproj.AssemblyReference.cache
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\obj\Debug\FarmaciaInventario.Properties.Resources.resources
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\obj\Debug\FarmaciaInventario.csproj.GenerateResource.cache
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\obj\Debug\FarmaciaInventario.csproj.CoreCompileInputs.cache
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\FarmaciaInventario.exe.config
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\FarmaciaInventario.exe
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\FarmaciaInventario.pdb
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\obj\Debug\FarmaciaInventario.exe
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\obj\Debug\FarmaciaInventario.pdb
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Azure.Core.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Azure.Identity.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Options.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Buffers.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.ClientModel.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Memory.Data.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Memory.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Numerics.Vectors.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.AccessControl.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.Principal.Windows.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Text.Encodings.Web.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Text.Json.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.ValueTuple.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Azure.Core.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Azure.Identity.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Options.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Buffers.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.ClientModel.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Memory.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Memory.Data.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Numerics.Vectors.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.AccessControl.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Security.Principal.Windows.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Text.Encodings.Web.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Text.Json.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\System.ValueTuple.xml
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\INGENIERIA DE SOFTWARE II\FarmaciaInventario\obj\Debug\Farmacia.2B151127.Up2Date
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\FarmaciaInventario.exe.config
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\FarmaciaInventario.exe
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\FarmaciaInventario.pdb
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Azure.Core.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Azure.Identity.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Buffers.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.ClientModel.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Memory.Data.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Memory.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Text.Json.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.ValueTuple.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Azure.Core.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Azure.Identity.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Buffers.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.ClientModel.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Memory.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Memory.Data.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Text.Json.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\System.ValueTuple.xml
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\obj\Debug\FarmaciaInventario.csproj.AssemblyReference.cache
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\obj\Debug\FarmaciaInventario.Properties.Resources.resources
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\obj\Debug\FarmaciaInventario.csproj.GenerateResource.cache
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\obj\Debug\FarmaciaInventario.csproj.CoreCompileInputs.cache
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\obj\Debug\FarmaciaInventario.csproj.CopyComplete
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\obj\Debug\FarmaciaInventario.exe
+C:\Users\DILMAR\Downloads\FarmaciaInventario\FarmaciaInventario\obj\Debug\FarmaciaInventario.pdb
